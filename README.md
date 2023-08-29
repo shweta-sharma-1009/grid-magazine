@@ -1,4 +1,4 @@
-hosted link of project - 
+hosted link of project - https://shweta-sharma-1009.github.io/grid-magazine/
 
 Screenshots - 
 ![Screenshot (365)](https://github.com/shweta-sharma-1009/grid-magazine/assets/128416925/bb9eb52c-408d-49ff-bf6d-f8144d81d963)
